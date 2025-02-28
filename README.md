@@ -1,0 +1,1 @@
+This repository contains a patched .DLL for Cities Skylines 2 (1.2.3f1 version) which allows the game to work on Mac via Whisky. Mods do not work currently. More details here https://www.reddit.com/r/CitiesSkylines2/comments/1j06llw/cs2_macoswhisky_123f1/
